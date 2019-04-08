@@ -490,14 +490,20 @@ abbr {
   content: "\f101";
 }
 
-.ico-backend:before {
-  content: "\f103";
+.img-icon{
+  width: inherit;
+  height: inherit;
+}
+
+.ico-cogs:before {
+  content: "\f085";
 }
 
 .ico-download:before {
   font-size: 140%;
   content: "\f104";
 }
+
 
 .ico-right:before {
   content: "\f108";
